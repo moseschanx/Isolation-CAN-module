@@ -1,0 +1,10 @@
+*.cam
+Project Logs for CAN-Box Reverse/*
+Project Outputs for CAN-Box Reverse/*
+History/*
+Libs/History/*
+
+*~
+*swp
+
+__Previews/*
