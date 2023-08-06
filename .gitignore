@@ -1,8 +1,8 @@
 *.cam
-Project Logs for CAN-Box Reverse/*
-Project Outputs for CAN-Box Reverse/*
+Project Logs for */*
+Project Outputs for */*
 History/*
-Libs/History/*
+*.htm
 
 *~
 *swp
